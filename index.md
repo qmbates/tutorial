@@ -4,4 +4,4 @@
 
 layout: default
 ---
-<img width="70%" height="30%" alt="spot data" src="https://github.com/user-attachments/assets/5ad45115-7306-4fde-821e-281acc2c689b" />
+<img width="70%" height="60%" alt="spot data" src="https://github.com/user-attachments/assets/5ad45115-7306-4fde-821e-281acc2c689b" />
