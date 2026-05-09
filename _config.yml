@@ -16,6 +16,7 @@
 title: diy spotify stats visualization tutorial
 description: >- # this means to ignore newlines until "baseurl:"
   learn how to visualize your own spotify data!
+  <a href="qmbates.github.io/tutorial/about">test</a>
 baseurl: "/tutorial/" # the subpath of your site, e.g. /blog
 url: "https://qmbates.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
