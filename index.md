@@ -4,3 +4,4 @@
 
 layout: default
 ---
+<img width="1438" height="870" alt="spot data" src="https://github.com/user-attachments/assets/5ad45115-7306-4fde-821e-281acc2c689b" />
