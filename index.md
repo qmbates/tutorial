@@ -5,7 +5,7 @@
 layout: default
 ---
 
-### hello and welcome to a user-friendly tutorial on visualizing and understanding your own spotify data!
+### welcome to a user-friendly tutorial on visualizing and understanding your own spotify data!
 
 spotify wrapped <a href="https://uxdesign.cc/why-is-spotify-wrapped-so-popular-5c503e79a3ee">exploded</a> 
 in popularity within the last several years. music fans enjoy seeing their own streaming statistics transformed 
@@ -25,10 +25,6 @@ manipulate it to see connections and gain insight into your streaming habits.
 * if your spotify data is ready to go, start learning how to use tableau <a href="/tutorial/starting-with-tableau/">here</a>.
 
 * if you would like to see a couple of more complex things you can do with tableau, go <a href="/tutorial/more-tableau/">here</a>! 
-
-
-
-
 
 ###### fyi, there is a <a href="https://www.tableau.com/blog/how-visualize-your-music-data">basic tutorial</a> about visualizing music data on the official tableau website but they do not 
 ###### teach you how to access your spotify data, nor what connections to make or to look for using the platform. 
