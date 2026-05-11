@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   !<a href="/tutorial/getting-your-data/">getting your spotify data</a>
   !<a href="/tutorial/starting-with-tableau/">starting with tableau</a>
   !<a href="/tutorial/more-tableau/">diving deeper</a>
+  !<a href="/tutorial/about/">me</a>
 baseurl: "/tutorial/" # the subpath of your site, e.g. /blog
 url: "https://qmbates.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
