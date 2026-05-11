@@ -20,11 +20,11 @@ you have come to the right place! this website is a step-by-step tutorial on how
 plug it into the visualization software <a href="https://www.tableau.com/products/desktop">tableau</a>, and 
 manipulate it to see connections and gain insight into your streaming habits.
 
-* head to <a href="/getting-your-data/">this page</a> if you are unsure how to access your spotify data.
+* head to <a href="/tutorial/getting-your-data/">this page</a> if you are unsure how to access your spotify data.
 
-* if your spotify data is ready to go, start learning how to use tableau <a href="/starting-with-tableau/">here</a>.
+* if your spotify data is ready to go, start learning how to use tableau <a href="/tutorial/starting-with-tableau/">here</a>.
 
-* if you would like to see a couple of more complex things you can do with tableau, go <a href="/more-tableau/">here</a>! 
+* if you would like to see a couple of more complex things you can do with tableau, go <a href="/tutorial/more-tableau/">here</a>! 
 
 
 
