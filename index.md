@@ -6,7 +6,7 @@ layout: default
 
 Spotify's "Wrapped" featurette <a href="https://uxdesign.cc/why-is-spotify-wrapped-so-popular-5c503e79a3ee">exploded</a> 
 in popularity within the last several years. music fans enjoy seeing their own streaming statistics transformed 
-into colorful visualizations, as it helps them to self-identify and makes them feel more closely connected to the
+into colorful visualizations, as it helps them to self-identify and allows them to feel more closely connected to the
 music makers they listen to. 
 
 you may have also heard about music data projects like <a href="https://everynoise.com/">everynoiseatonce</a> 
