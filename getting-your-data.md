@@ -13,5 +13,7 @@ scroll down and select **Extended streaming history**, then click the **Request 
 
 <img width="95%" alt="spot data" src="https://github.com/user-attachments/assets/869f5b0a-8452-442e-9a5d-115e30b17b3f" />
 
-it can take up to a couple of weeks for spotify to compile and send your data. it will be delivered to the email address
-associated with your account in compressed packages. 
+**! it can take up to a couple of weeks for spotify to compile and send your data.** 
+
+it will be delivered to the email address associated with your account in compressed packages. 
+once you have extracted these packages you will be ready to start <a href="/tutorial/starting-with-tableau/>visualizing!</a>
