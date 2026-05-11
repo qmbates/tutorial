@@ -15,7 +15,7 @@ the way streaming changes music. whether you were inspired by such projects or w
 plug it into the visualization software <a href="https://www.tableau.com/products/desktop">tableau</a>, and manipulate it 
 to see connections and gain insight into your streaming habits.
 
-* head to <a href="/getting-your-data/">this page</a>if you are unsure how to access your spotify data.
+* head to <a href="/getting-your-data/">this page</a> if you are unsure how to access your spotify data.
 
 * if you already have your spotify data and are ready to get started in tableau, start <a href="/starting-with-tableau/">here</a>.
 
