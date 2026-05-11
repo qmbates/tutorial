@@ -16,4 +16,4 @@ scroll down and select **Extended streaming history**, then click the **Request 
 **! it can take up to a couple of weeks for spotify to compile and send your data.** 
 
 it will be delivered to the email address associated with your account in compressed packages. 
-once you have extracted these packages you will be ready to start <a href="/tutorial/starting-with-tableau/>visualizing!</a>
+once you have extracted these packages you will be ready to start <a href="/tutorial/starting-with-tableau/">visualizing!</a>
