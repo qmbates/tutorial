@@ -13,3 +13,4 @@ scroll down and select **Extended streaming history**, then click the **Request 
 
 <img width=50% height=20% alt="spot data" src="https://github.com/user-attachments/assets/869f5b0a-8452-442e-9a5d-115e30b17b3f" />
 
+it can take up to a couple of weeks for spotify to compile and deliver your data.
