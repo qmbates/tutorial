@@ -1,7 +1,15 @@
 ---
 layout: default
-title: About
+title: getting your data
 permalink: /getting-your-data/
 ---
+# getting your spotify data
 
-<img width="100%" alt="spot data" src="https://github.com/user-attachments/assets/33ca36d1-1fc8-4a59-a15c-5a64ae4c515c" />
+spotify allows you to request your entire streaming history in the form of `.json` files.
+
+to request your streaming history, nav to <a href="https://www.spotify.com/us/account/privacy/">spotify.com/us/account/privacy/</a>.
+
+scroll down and select **Extended streaming history**, then click the **Request data** button at the bottom of the page.
+
+<img width="1438" height="870" alt="spot data" src="https://github.com/user-attachments/assets/869f5b0a-8452-442e-9a5d-115e30b17b3f" />
+
