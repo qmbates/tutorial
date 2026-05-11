@@ -30,5 +30,5 @@ manipulate it to see connections and gain insight into your streaming habits.
 
 
 
-###### _fyi, there is a <a href="https://www.tableau.com/blog/how-visualize-your-music-data">basic tutorial</a> about visualizing music data on the official tableau website 
-###### but they do not teach you how to access your spotify data, nor what connections to make or to look for using the platform._ 
+###### fyi, there is a <a href="https://www.tableau.com/blog/how-visualize-your-music-data">basic tutorial</a> about visualizing music data on the official tableau website but they do not 
+###### teach you how to access your spotify data, nor what connections to make or to look for using the platform. 
