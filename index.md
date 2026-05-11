@@ -4,7 +4,7 @@ layout: default
 
 ### welcome to a user-friendly tutorial on visualizing and understanding your own spotify data!
 
-Spotify Wrapped <a href="https://uxdesign.cc/why-is-spotify-wrapped-so-popular-5c503e79a3ee">exploded</a> 
+Spotify's "Wrapped" featurette <a href="https://uxdesign.cc/why-is-spotify-wrapped-so-popular-5c503e79a3ee">exploded</a> 
 in popularity within the last several years. music fans enjoy seeing their own streaming statistics transformed 
 into colorful visualizations, as it helps them to self-identify and makes them feel more closely connected to the
 music makers they listen to. 
