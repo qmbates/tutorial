@@ -8,8 +8,9 @@ permalink: /starting-with-tableau/
 
 Tableau is a data visualization and analytics software that is engineered to be intuitive.
 
-in this tutorial we will be using Tableau Desktop. Tableau Desktop is free to download; all you need
-to do to use the software is make an account.
+in this tutorial we will be using Tableau Desktop. Tableau's Desktop edition is 
+<a href="https://www.tableau.com/products/desktop">free to download here</a>; after installing it, 
+all you will need to do to start using the software is make an account.
 
-tableau has many online tutorials on using all of their features. today we will only be highlighting 
+Tableau has many online tutorials on using all of their features. today we will only be highlighting 
 the ones that will be most useful for this project.
