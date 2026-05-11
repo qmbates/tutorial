@@ -11,7 +11,7 @@ spotify wrapped exploded in popularity within the last several years. music fans
 transformed into colorful visualizations, as it helps them to self-identify and makes them feel more closely connected to the
 music makers they listen to. 
 
-you may have also heard about music visualization projects like 
+you may have also heard about music data projects like 
 <a href="https://everynoise.com/">everynoiseatonce</a> or <a href="https://furia.com/">furia</a>, whose aims are to analyze 
 the way streaming changes music. 
 
