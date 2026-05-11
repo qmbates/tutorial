@@ -18,5 +18,6 @@ all you will need to do to start using the software is create and log in to an a
 
 ***
 
+<br>
 ### importing your data
 
