@@ -18,8 +18,10 @@ all you will need to do to start using the software is create and log in to an a
 ### importing your data
 
 * open Tableau Desktop. in the menu on the left under **To a File** click **JSON file**.
+ 
 * browse to your chosen dataset. (depending on how old your Spotify account is, you could have a few or many .json files.
 each file contains your listening data from a certain period of time.)
+
 * select a file and click **open**. when prompted, click **OK**.
 
 your data has been loaded! you will see all of the included fields in the window on the bottom left.
@@ -52,8 +54,10 @@ the measure that we will be using for this tutorial will be `ms played`. This me
 was played. combined with dimensions such as artist or track, we can start to create simple charts.
 
 * click and drag the `ms played` field up into the **Columns** bar.
+
 * choose a dimension (here i chose `artist`) and drag it up into the **Rows** bar.
   * (if your data contains many different entries for a field, the software will ask you to confirm that you would like to load all of them.)
+ 
 * a chart will be created automatically. you can sort this chart using the **Sort** buttons in the top menu. hovering over any option shows the total amount of time it was played.
 
 <img width="99%" alt="simple artist chart" src="https://github.com/user-attachments/assets/b670304b-1d27-47c1-abd7-7ff865a23e09" />
