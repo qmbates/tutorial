@@ -88,4 +88,4 @@ top ten artists.
 
 you now know the basics of creating your own listening charts. try messing around using `track` and `album` instead of the `artist` field.
 
-when you're ready to try some slightly more complicated charts, head to the <a href="/tutorial/more-tableau/">more tableau</a>page.
+when you're ready to try some slightly more complicated charts, head to the <a href="/tutorial/more-tableau/">more tableau</a> page.
