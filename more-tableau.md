@@ -35,7 +35,7 @@ at least 50 times.
 
 ### measuring over time
 
-your spotify data comes with a timestamp for every instance of a track playing. however, Spotify formats the timestamp in a way that Tableau cannot read.
+your Spotify data comes with a timestamp for every instance of a track playing. however, Spotify formats the timestamp in a way that Tableau cannot read.
 fortunately, Tableau allows us to create a **Calculated field** in order to format all of our timestamps in one go!
 
 * go back to the **Data Source** tab.
