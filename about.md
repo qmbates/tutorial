@@ -9,7 +9,7 @@ my name is quadri. i created this website as a final project for one of my gradu
 i plan to keep updating it for the forseeable future as my explorations continue.
 
 this project was primarily inspired by two books that i read in the past year: 
-_<a href=" https://lizpelly.info/book">Mood Machine</a>_ 
+_<a href="https://lizpelly.info/book">Mood Machine</a>_ 
 by <a href="https://lizpelly.info/">Liz Pelly</a> 
 and 
 _<a href="https://furia.com/page.cgi?type=log&id=487">You Have Not Yet Heard Your Favorite Song</a>_ 
