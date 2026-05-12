@@ -76,6 +76,13 @@ while we are at it, we can also clean up our chart by **filtering** it. you can 
 top ten artists.
 
 * click the dropdown or right-click on the `artist` field. choose **Edit filter**, then go to the **Top** tab.
+ 
 * click **By field** and input however many results you would like. click **Apply**, then **OK**.
 
 <img width="99%" alt="count and filter" src="https://github.com/user-attachments/assets/4c18b0c8-d2e0-4582-a9bb-c2ce3a71279a" />
+
+***
+
+you now know the basics of creating your own listening charts. try messing around using `track` and `album` instead of the `artist` field.
+
+when you're ready to try some slightly more complicated charts, head to the <a href="/tutorial/more-tableau/">more tableau</a>page.
