@@ -11,9 +11,9 @@ Tableau is a data visualization and analytics software that is engineered to be 
 Tableau has many online tutorials on using all of their features. today we will only be highlighting 
 the ones that will be most useful for this project.
 
-in this tutorial we will be using Tableau Desktop. Tableau's Desktop edition is 
-<a href="https://www.tableau.com/products/desktop">free to download here</a>; after installing it, 
-all you will need to do to start using the software is create and log in to an account.
+in this tutorial we will be using Tableau Desktop. this edition is 
+<a href="https://www.tableau.com/products/desktop" target="_blank">free to download here</a>; after installing it, 
+all you will need to do to start using the software is create and login to an account.
 
 ***
 
@@ -21,7 +21,7 @@ all you will need to do to start using the software is create and log in to an a
 
 * open Tableau Desktop. in the menu on the left under **To a File** click **JSON file**.
  
-* browse to your chosen dataset. (depending on how old your Spotify account is, you could have a few or many .json files.
+* browse to your chosen dataset. (depending on how old your Spotify account is, you could have a few or many `.json` files.
 each file contains your listening data from a certain period of time.)
 
 * select a file and click **open**. when prompted, click **OK**.
@@ -49,23 +49,22 @@ i recommend renaming the `artist`, `album`, and `track` fields to make them easi
 
 now we can start making charts!
 
-in the data menu on the left, you will see <a href="https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm">two groups</a> 
+in the data menu on the left, you will see <a href="https://help.tableau.com/current/pro/desktop/en-us/datafields_typesandroles.htm" target="_blank">two groups</a> 
 of fields. the top group (blue icons) are called **dimensions** and the bottom group (green icons) are called **measures**. to make a simple bar chart we will need one of each.
 
-the measure that we will be using for this tutorial will be `ms played`. This measure counts the milliseconds that each track or podcast episode
+the measure that we will be using for this tutorial will be `ms played`. this measure counts the milliseconds that each track or podcast episode
 was played. combined with dimensions such as artist or track, we can start to create simple charts.
 
 * click and drag the `ms played` field up into the **Columns** bar.
 
-* choose a dimension (here i chose `artist`) and drag it up into the **Rows** bar.
+* choose a dimension (like `artist`) and drag it up into the **Rows** bar.
   * (if your data contains many different entries for a field, the software will ask you to confirm that you would like to load all of them.)
-
-
+<br>
 * a chart will be created automatically. you can sort this chart using the **Sort** buttons in the top menu. hovering over any option shows the total amount of time it was played.
 
 <img width="99%" alt="simple artist chart" src="https://github.com/user-attachments/assets/b670304b-1d27-47c1-abd7-7ff865a23e09" />
 
-now we have a chart that shows us a ranked order of how long we spent listening to every artist we listened to!
+we now have a chart that shows us a ranked order of how long we spent listening to every artist we listened to!
 
 total time played can be a useful measure, but what if we want to see how many times we listened to a song by each artist? to do so, we will need to change the value
 that our **measure** field is counting. 
