@@ -9,7 +9,6 @@ permalink: /more-tableau/
 now that you know how to create basic charts, let's look at some more ways to sort and visualize our listening data.
 
 ***
-<br>
 
 ### other filters
 
@@ -33,7 +32,6 @@ at least 50 times.
 **! to clear filters, you can click and drag them out of the _Filters_ box.**
 
 ***
-<br>
 
 ### measuring over time
 
