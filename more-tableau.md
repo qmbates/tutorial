@@ -10,6 +10,7 @@ now that you know how to create basic charts, let's look at some more ways to so
 
 ***
 <br>
+
 ### other filters
 
 we already saw how the **Top** filter works. but what do the other filter options do?
