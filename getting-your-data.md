@@ -5,9 +5,9 @@ permalink: /getting-your-data/
 ---
 # getting your spotify data
 
-spotify allows you to request your entire streaming history in the form of `.json` files.
+Spotify allows you to request your entire streaming history in the form of `.json` files.
 
-to request your streaming history, nav to <a href="https://www.spotify.com/us/account/privacy/">spotify.com/us/account/privacy/</a>.
+to request your streaming history, nav to <a href="https://www.spotify.com/us/account/privacy/" target="_blank">spotify.com/us/account/privacy/</a>.
 
 once logged in, scroll down and select **Extended streaming history**, then click the **Request data** button at the bottom of the page.
 
