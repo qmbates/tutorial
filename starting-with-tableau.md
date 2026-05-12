@@ -21,7 +21,7 @@ all you will need to do to start using the software is create and login to an ac
 
 * open Tableau Desktop. in the menu on the left under **To a File** click **JSON file**.
  
-* browse to your chosen dataset. (depending on how old your Spotify account is, you could have a few or many `.json` files.
+* browse to your chosen dataset. (depending on how old your Spotify account is, you could have few or many `.json` files.
 each file contains your listening data from a certain period of time.)
 
 * select a file and click **open**. when prompted, click **OK**.
