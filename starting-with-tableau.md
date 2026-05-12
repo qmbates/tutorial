@@ -30,8 +30,6 @@ for more information on the fields in this dataset, you can refer to the **READM
 
 <img width="99%" alt="tableauopendata" src="https://github.com/user-attachments/assets/edb95dc4-d615-49f1-8991-8aa99103f2db" />
 
-***
-
 we will need to open up the sheet page to start creating visualizations. click the **Sheet 1** tab in the bottom left.
 
 when you open Sheet 1, you will see all of the data fields in a menu on the left. these are the data fields that we will be
@@ -42,6 +40,8 @@ i recommend renaming the `artist`, `album`, and `track` fields to make them easi
 "`master_metadata`".)
 
 <img width="99%" alt="namechange" src="https://github.com/user-attachments/assets/3405506a-46d9-454c-9534-f6b5b96288d6" />
+
+***
 
 ### basic visualizations
 
