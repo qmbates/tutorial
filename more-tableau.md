@@ -34,3 +34,23 @@ at least 50 times.
 <br>
 
 ### measuring over time
+
+your spotify data comes with a timestamp for every instance of a track playing. however, the timestamp is in a format that Tableau cannot read.
+fortunately, Tableau allows us to create a **Calculated field** in order to format all of our timestamps in one go!
+
+* go back to the **Data Source** tab.
+
+* in the window on the bottom right, scroll all the way to the right until you get to the `ts` field.
+
+* click the dropdown, then choose **Create Calculated field**.
+
+* remove the content inside of the box, then paste this: `"DATEPARSE(YYYY-MM-dd'T'HH:mm:ss'Z'",[Ts])`
+
+* rename the field.
+
+* click **Apply**, then **OK**.
+
+<img width="99%" alt="dateparse" src="https://github.com/user-attachments/assets/a5edda63-64f6-41b3-b86d-e560d242914f" />
+
+you have created a new timestamp field that is usable by Tableau. let's see what it can do.
+
