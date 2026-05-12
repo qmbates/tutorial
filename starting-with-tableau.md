@@ -57,7 +57,8 @@ was played. combined with dimensions such as artist or track, we can start to cr
 
 * choose a dimension (here i chose `artist`) and drag it up into the **Rows** bar.
   * (if your data contains many different entries for a field, the software will ask you to confirm that you would like to load all of them.)
- 
+
+
 * a chart will be created automatically. you can sort this chart using the **Sort** buttons in the top menu. hovering over any option shows the total amount of time it was played.
 
 <img width="99%" alt="simple artist chart" src="https://github.com/user-attachments/assets/b670304b-1d27-47c1-abd7-7ff865a23e09" />
