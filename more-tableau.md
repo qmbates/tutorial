@@ -66,7 +66,7 @@ you have created a new timestamp field that is usable by Tableau. let's see what
 
 this graph shows us each instance that we listened to our selected artist.
 
-
+<img width="99%" alt="instance" src="https://github.com/user-attachments/assets/81d379d2-4b4c-40b3-a064-bd55b1c40d8c" />
 
 we can take it a step further and create a more tangible visualization that shows how our listening trended over time.
 
@@ -77,3 +77,4 @@ we can take it a step further and create a more tangible visualization that show
 voila! now we have a chart that displays our listening trends for the chosen artist. the sharper the incline, the more we were listening
 to that artist over that period of time.
 
+<img width="99%" alt="trend" src="https://github.com/user-attachments/assets/fde9a3c1-acaf-4239-8c7f-0d776d08f94e" />
