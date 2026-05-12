@@ -9,13 +9,13 @@ permalink: /more-tableau/
 now that you know how to create basic charts, let's look at some more ways to sort and visualize our listening data.
 
 ***
-
+<br>
 ### other filters
 
 we already saw how the **Top** filter works. but what do the other filter options do?
 
 * **General** allows you to pick and choose from the entire list of distinct entries for a field. this could be useful if we want to compare and contrast
-only a few entities at once.
+only a few certain entities at once.
 
 <img width="99%" alt="general" src="https://github.com/user-attachments/assets/14972224-997a-4d81-a00d-cf33abc12884" />
 
@@ -30,5 +30,5 @@ at least 50 times.
 <img width="99%" alt="condition" src="https://github.com/user-attachments/assets/babcdd4f-ca44-4e86-9707-5a5f4d7eb3a7" />
 
 ***
-
+<br>
 ### measuring over time
