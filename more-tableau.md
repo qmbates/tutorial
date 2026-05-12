@@ -30,12 +30,14 @@ at least 50 times.
 
 <img width="99%" alt="condition" src="https://github.com/user-attachments/assets/babcdd4f-ca44-4e86-9707-5a5f4d7eb3a7" />
 
+**! to clear filters, you can click and drag them out of the _Filters_ box.**
+
 ***
 <br>
 
 ### measuring over time
 
-your spotify data comes with a timestamp for every instance of a track playing. however, the timestamp is in a format that Tableau cannot read.
+your spotify data comes with a timestamp for every instance of a track playing. however, Spotify formats the timestamp in a way that Tableau cannot read.
 fortunately, Tableau allows us to create a **Calculated field** in order to format all of our timestamps in one go!
 
 * go back to the **Data Source** tab.
@@ -52,5 +54,26 @@ fortunately, Tableau allows us to create a **Calculated field** in order to form
 
 <img width="99%" alt="dateparse" src="https://github.com/user-attachments/assets/a5edda63-64f6-41b3-b86d-e560d242914f" />
 
-you have created a new timestamp field that is usable by Tableau. let's see what it can do.
+you have created a new timestamp field that is usable by Tableau. let's see what it can do with an example.
+
+* go back to the **Sheet 1** tab.
+
+* put the `artist` field up into the **Rows** bar. filter to a specific artist.
+
+* put our new `timestamp` field into the **Columns** bar. a new graph will populate!
+
+* when you put `timestamp` into **Columns**, it will automatically select **YEAR** as the format. change the format to **Exact Date** instead.
+
+this graph shows us each instance that we listened to our selected artist.
+
+
+
+we can take it a step further and create a more tangible visualization that shows how our listening trended over time.
+
+* add the `ms played` field to the **Rows** bar.
+
+* in the menu for `ms played`, go down to **Quick Table Calculation** and select **Running Total**.
+
+voila! now we have a chart that displays our listening trends for the chosen artist. the sharper the incline, the more we were listening
+to that artist over that period of time.
 
