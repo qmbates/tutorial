@@ -9,7 +9,7 @@ permalink: /starting-with-tableau/
 Tableau is a data visualization and analytics software that is engineered to be intuitive.
 
 Tableau has many <a href="https://trailhead.salesforce.com/content/learn/trails/get-started-with-data-visualization-in-tableau-desktop" target="_blank">help articles</a> 
-detailing all of the included features. today we will only be highlighting the ones that will be most useful for this project.
+detailing all of the included features. on this page we will only be highlighting the ones that will be most useful for a quick project.
 
 in this tutorial we will be using Tableau Desktop. this edition is 
 <a href="https://www.tableau.com/products/desktop" target="_blank">free to download here</a>; after installing it, 
