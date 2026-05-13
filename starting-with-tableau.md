@@ -8,8 +8,8 @@ permalink: /starting-with-tableau/
 
 Tableau is a data visualization and analytics software that is engineered to be intuitive.
 
-Tableau has many online tutorials on using all of their features. today we will only be highlighting 
-the ones that will be most useful for this project.
+Tableau has many <a href="https://help.tableau.com/current/pro/desktop/en-us/design_and_analyze.htm" target="_blank">help articles</a> 
+detailing all of the included features. today we will only be highlighting the ones that will be most useful for this project.
 
 in this tutorial we will be using Tableau Desktop. this edition is 
 <a href="https://www.tableau.com/products/desktop" target="_blank">free to download here</a>; after installing it, 
