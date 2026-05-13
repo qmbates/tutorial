@@ -9,12 +9,12 @@ in popularity within the last several years. music fans enjoy seeing their own s
 into colorful visualizations, as it helps them to self-identify and allows them to feel more closely connected to the
 music makers they listen to. 
 
-you may have also heard about glenn mcdonald's music data projects like <a href="https://everynoise.com/" target="_blank">everynoiseatonce</a>, 
- <a href="https://furia.com/" target="_blank">furia</a>, and <a href="https://everynoise.com/curio.html" target="_blank">curio</a>, whose aims are to analyze the way streaming changes music. 
+you may have also heard about glenn mcdonald's music data projects **<a href="https://everynoise.com/" target="_blank">everynoiseatonce</a>**, 
+**<a href="https://furia.com/" target="_blank">furia</a>**, and **<a href="https://everynoise.com/curio.html" target="_blank">curio</a>**, whose aims are to analyze the way streaming changes music. 
 
 whether you were inspired by such projects or want to try your hand at creating your own "Spotify Wrapped", 
 you have come to the right place! this website is a step-by-step tutorial that will teach you how to gather your data,
-plug it into the visualization software <a href="https://www.tableau.com/products/desktop" target="_blank">Tableau</a>, and 
+plug it into the visualization software **<a href="https://www.tableau.com/products/desktop" target="_blank">Tableau</a>**, and 
 manipulate it to see connections and gain insight into your streaming habits.
 
 * head to <a href="/tutorial/getting-your-data/">this page</a> if you are unsure how to access your Spotify data.
