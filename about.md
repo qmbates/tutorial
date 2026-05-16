@@ -4,7 +4,8 @@ title: me!
 permalink: /about/
 ---
 
-my name is quadri. i created this website as a final project for one of my graduate school classes.
+my name is <a href="https://open.spotify.com/user/oxojhcpf2cyxj8v1gu4671np1" target="_blank">quadri</a>. 
+i created this website as a final project for one of my graduate school classes.
 
 i plan to keep updating it for the forseeable future as my explorations continue.
 
